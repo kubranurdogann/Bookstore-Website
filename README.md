@@ -1,8 +1,25 @@
-## Bookstore Website
-<img src="https://github.com/kubranurdogann/Bookstore/blob/main/bookstore-ss-1.png" alt="banner" width="1000" height="400" /></br>
-<img src="https://github.com/kubranurdogann/Bookstore/blob/main/bookstore-ss-2.png" alt="banner" width="1000" height="400" /></br>
-<img src="https://github.com/kubranurdogann/Bookstore/blob/main/bookstore-ss-3.png" alt="banner" width="1000" height="400" /></br>
-<img src="https://github.com/kubranurdogann/Bookstore/blob/main/bookstore-ss-4.png" alt="banner" width="1000" height="400" /></br>
-<img src="https://github.com/kubranurdogann/Bookstore/blob/main/bookstore-ss-5.png" alt="banner" width="1000" height="200" /></br>
-</br></br>
-##### Kaynak: https://preview.themeforest.net/item/aurum-minimalist-shopping-theme/full_screen_preview/9600822?_ga=2.12803959.1173121853.1726308919-1009794279.1726308919&_gac=1.50087636.1726318251.CjwKCAjw6JS3BhBAEiwAO9waF0c8qbBljUdXjYbFzX0npTpmxuN7DAvBa3_4W26rHs-P2nBojXImIBoCuxUQAvD_BwE
+# 📚 Full-Stack Bookstore Application
+#### This is a full-stack web application for an online bookstore, built using modern web technologies including HTML, CSS, TypeScript, React, Node.js, and MongoDB.
+
+## ***🚀 Features***
+### - 🔐 User Authentication
+#### Secure login and registration system
+#### User data stored in MongoDB
+### - 🛍️ Book Listing & Shopping Cart
+#### Fetches and displays books from the database
+#### Add/remove books to/from the shopping cart
+#### User-specific cart stored and managed
+### - 🔍 Book Search
+#### Live book search functionality by title
+### - 🏆 Best Sellers on Homepage
+#### Highlights top-selling books dynamically on the homepage
+### - 🧾 Contact Form
+#### Contact form with fields (email, company, message)
+#### Submitted form data is saved to the MongoDB database
+
+### 🗂️ Project Structure
+#### /client – React frontend
+#### /server – Node.js backend and API routes
+#### /models – MongoDB schema definitions (e.g., Book, User, Cart, Message)
+
+
