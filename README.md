@@ -17,7 +17,7 @@
 #### Contact form with fields (email, company, message)
 #### Submitted form data is saved to the MongoDB database
 
-### 🗂️ Project Structure
+### ***🗂️ Project Structure***
 #### /client – React frontend
 #### /server – Node.js backend and API routes
 #### /models – MongoDB schema definitions (e.g., Book, User, Cart, Message)
